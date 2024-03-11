@@ -1,3 +1,3 @@
-Some practice on Html,css and javascript 
+Snake-Game using HTML-CSS-JavaScript.
 
-Demo: **https://snake-game-js1.netlify.app/**
+Demo: **https://snake-game-js1.netlify.app/**🐍
